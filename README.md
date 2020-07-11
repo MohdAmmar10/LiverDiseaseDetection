@@ -1,9 +1,9 @@
 # LiverDiseaseDetection
-## OBjective
+## Objective
 The main objective of this project is to use classification algorithms to detect the liver patients from healthy individuals. In this study, THREE classification algorithms Logistic Regression, K Nearest Neighbor (KNN) and Artificial Neural Networks (ANN) have been considered for comparing their performance based on the liver patient data. Further, the model with the highest accuracy is implemented as a user-friendly GUI using the Tkinter package in python. The GUI can be easily utilized by doctors and medical practitioners as a screening tool for liver disease. 
 ## Dataset
 The dataset used is The Indian Liver Patient Dataset (ILPD) which was selected from UCI Machine learning repository for this study. The data set contains 416 liver patient records and 167 non liver patient records collected from North East of Andhra Pradesh, India. The "Dataset" column is a class label used to divide groups into liver patients (liver disease) or not (no disease). This data set contains 441 male patient records and 142 female patient records.
-## Libraries used
+## Libraries Used
 1.	Numpy
 2.	Pandas
 3.	Matplotlib
